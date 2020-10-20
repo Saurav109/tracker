@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "186839444081",
+    "firebase_url": "https://tracker-960f5.firebaseio.com",
+    "project_id": "tracker-960f5",
+    "storage_bucket": "tracker-960f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:186839444081:android:0244704f79b3ee4be609d0",
+        "android_client_info": {
+          "package_name": "com.ironman.tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "186839444081-75vja487toh3926v72n6onucmjqu9ssi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0VNdeaF__D7rcE9TI3PgTdaMhjSmhvwc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "186839444081-75vja487toh3926v72n6onucmjqu9ssi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
